@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    color: #fff;
+}
+
+body{
+    background: #000;
+}
+
+header{
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+}
