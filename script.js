@@ -1,1 +1,0 @@
-alert("Hello! Welcome To Linktree Of Krishna");
